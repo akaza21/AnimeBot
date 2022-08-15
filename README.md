@@ -77,6 +77,6 @@ Just a fun project to dive into the world of chatbots.
     
 ## Feedback
 
-If you have any feedback, please reach out to us at debroyshayan@gmail.com
+If you have any feedback, please reach out to us at pragyash258@gmail.com
 
   
